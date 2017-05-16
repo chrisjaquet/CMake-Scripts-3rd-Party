@@ -27,6 +27,8 @@ Most of the scripts are derived from the official library build scripts and are 
 
 http://unlicense.org/
 
+Note that attribution is always welcome - it is nice to know when your work is being helpful somewhere :-)
+
 ## Supported OS and Toolchains
 
 <coming>
