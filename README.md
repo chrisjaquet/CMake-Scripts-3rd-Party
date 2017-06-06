@@ -5,7 +5,7 @@ There are a number of very common third-party libraries that tend to be used eve
 
 The goal of this repository is to host custom `CMakeLists.txt` files that can be used to build these libraries using CMake. Initially I will be happy with a "drop-in" `CMakeLists.txt` for each library, which can be used to build the library in question, but eventually I would like to be able to use portions of the repo within other projects to aid in dependency building.
 
-## Acknowledgements 
+## Acknowledgments
 
 While I have had the idea of creating CMake scripts for these third-party libraries for quite some time, the great work done by [Björn Blissing](https://github.com/bjornblissing) for his [`osg-3rdparty-cmake` repo](https://github.com/bjornblissing/osg-3rdparty-cmake) has let me hit the ground running. The first few releases of this repo are thus taken almost verbatim from that repo and modified to suit my particular needs/desires.
 
@@ -37,6 +37,6 @@ Note that attribution is always welcome - it is nice to know when your work is b
 
 ### <Library Name>
 
-Version(s) Supported: 
+Version(s) Supported:
 Original Website:
 Notes:
