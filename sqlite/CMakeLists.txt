@@ -101,6 +101,7 @@ set_target_properties(sqlite_lib PROPERTIES
 if(UNIX)
     target_link_libraries(sqlite_lib
         Threads::Threads
+        ${CMAKE_DL_LIBS}
     )
 endif()
 
