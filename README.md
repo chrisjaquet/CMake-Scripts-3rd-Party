@@ -23,7 +23,7 @@ In fact, it was while working on fork of Björn's repo that I decided to create 
 
 ## Licensing
 
-Most of the scripts are derived from the official library build scripts and are thus derived works. The licensing of the applicable library for that script will this apply. The support/infrastructure scripts that form part of this repo (not including sub-repos or linked repos, which may have their own license) are licensed according to the Unlicense:
+Most of the scripts are derived from the official library build scripts and are thus derived works. The licensing of the applicable library for that script will thus apply. The support/infrastructure scripts that form part of this repo (not including sub-repos or linked repos, which may have their own license) are licensed according to the Unlicense:
 
 http://unlicense.org/
 
